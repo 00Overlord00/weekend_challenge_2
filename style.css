@@ -1,0 +1,25 @@
+#stagingArea {
+  background-color: grey;
+  width: 500px;
+  height: 500px;
+  margin-left: 40%;
+}
+
+button {
+  background-color: lightblue;
+}
+
+#sweetSpot {
+  margin: 50%;
+  background-color: black;
+}
+
+.next {
+  margin-right: none;
+  margin-left: 80%;
+}
+
+.prev {
+  margin-right: 80%;
+  margin-left: none;
+}
